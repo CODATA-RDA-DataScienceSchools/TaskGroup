@@ -215,26 +215,15 @@ Here is a list of suggested responsibilities for the helpers:
 
 -   Insist on the green and red sticky note system for all classes.
 
--   There are two feedback types that we need the students to fill out:
-    > one at the end of each workshop and the green/red sticky note
-    > system at the end of each class. The first one will be processed
-    > after the two weeks, but the second one should be processed each
-    > day. We can create [[a similar
-    > form]](https://docs.google.com/forms/d/e/1FAIpQLSeYl6o9U74up43M_fhPn-So9bE2xoWnoRTBKL-aUg-BEJD8Og/viewform)
-    > to process the responses.
+-   There are two feedback types that we need the students to fill out: one at the end of each workshop and the green/red sticky note system at the end of each class. The first one will be processed after the two weeks, but the second one should be processed each day. We can create [a similar form](https://docs.google.com/forms/d/e/1FAIpQLSeYl6o9U74up43M_fhPn-So9bE2xoWnoRTBKL-aUg-BEJD8Og/viewform) to process the responses.
 
--   Process daily feedback - word cloud. Maybe here I need just one
-    > volunteer, or you can rotate the labor, here is a guide on how to
-    > do it: https://github.com/joselatrans/wordCloudsRDASP18
+-   Process daily feedback - word cloud. Maybe here I need just one volunteer, or you can rotate the labor, here is a guide on how to do it: https://github.com/joselatrans/wordCloudsRDASP18
 
 -   Help to keep the Etherpad updated.
 
--   Encourage networking during the breaks. Ask people about their
-    > research, and if you can, introduce other people with similar
-    > topics of interest.
+-   Encourage networking during the breaks. Ask people about their research, and if you can, introduce other people with similar topics of interest.
 
--   Upload material from instructors in a repo like this one:
-    > https://github.com/CODATA-RDA-DataScienceSchools/Materials/blob/master/docs/index.md
+-   Upload material from instructors in a repo like this one: https://github.com/CODATA-RDA-DataScienceSchools/Materials/blob/master/docs/index.md
 
 -   Post pictures on social media using \#data\<Location\>\<Year\>
 
