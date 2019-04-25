@@ -208,8 +208,7 @@ each other.
 
 Here is a list of suggested responsibilities for the helpers:
 
--   Try to get all the students to have their Biosketch uploaded before
-    > the start of our first class on Monday.
+-   Try to get all the students to have their Biosketch uploaded before the start of our first class on Monday.
 
 -   Be part of the group discussions for the Open Science classes.
 
