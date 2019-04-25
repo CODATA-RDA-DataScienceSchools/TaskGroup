@@ -68,7 +68,7 @@ CPU or large memory but a reasonable amount of connectivity is required
 need to be on hand to deal with issues during the lab or to deal with
 any problems with projectors etc.
 
-### [Administrative support]
+### Administrative support
 
 The local host should assist in the entire administrative process to
 plan, coordinate and deliver the Schools. This will require regular
@@ -125,8 +125,8 @@ collaborating with the programme in the future. Our experience show that
 the best way to train future trainers and future members of the working
 group is inviting them to be helpers in one school.
 
-This [[list of
-contacts]](https://docs.google.com/spreadsheets/d/15YyeY-dl9t52Qrk9G0FmnsrUzCXDnnEDDJ1gJ9IipiM/edit#gid=731581240)
+This [list of
+contacts](https://docs.google.com/spreadsheets/d/15YyeY-dl9t52Qrk9G0FmnsrUzCXDnnEDDJ1gJ9IipiM/edit#gid=731581240)
 should be useful to start the search.
 
 ## **Prepare budget, set application web page and advertise**
@@ -135,7 +135,7 @@ An example of a typical budget is in here. The prices for the hotel,
 daily stipend and catering service should be provided by the host
 institution. The flight ticket prices can be estimated using the online
 service
-[[https://www.hipmunk.com/flights]{.underline}](https://www.hipmunk.com/flights)
+[https://www.hipmunk.com/flights](https://www.hipmunk.com/flights)
 or any other site that allows to compare best prices.
 
 The application web page and the advertisement should be created by the
@@ -162,8 +162,8 @@ event.
 
 ## **Process applications and send invites**
 
-The students will be scored according to [[this
-guideline]{.underline}](https://docs.google.com/document/d/10MHYm0bm1L2nEMcNaA8kmXKuh24sg1OKhqRF4VrStgQ/edit)
+The students will be scored according to [this
+guideline](https://docs.google.com/document/d/10MHYm0bm1L2nEMcNaA8kmXKuh24sg1OKhqRF4VrStgQ/edit)
 by at least 2 TG members. The final decisions will be taken according to
 the funding restrictions, but also taking into account: best score,
 gender balance and region/countries of origin balance. Make sure to
@@ -197,7 +197,7 @@ clarified before.
 ## **Email to students before arrival**
 
 This is an
-[[example]](https://docs.google.com/document/d/1bqHqL7lk6tOjnua3A3AkUl1FpWwbb2jXR4BVv9TT23Q/edit).
+[example](https://docs.google.com/document/d/1bqHqL7lk6tOjnua3A3AkUl1FpWwbb2jXR4BVv9TT23Q/edit).
 Try to organize an informal meetup the Sunday before the workshop start.
 It is important that those students that made it there early can meet
 each other.
