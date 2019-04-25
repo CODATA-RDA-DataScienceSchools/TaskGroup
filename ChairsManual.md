@@ -5,7 +5,7 @@
 The CODATA Research Data Science Schools are a fantastic opportunity to
 provide foundational data skills to Early Career Researchers in your
 region. We have run six Schools to date (three in Trieste, Italy, one in
-Kigali, Rwanda, and two in Sao Paulo, Brazil) in collaboration with the
+Kigali, Rwanda, and two in São Paulo, Brazil) in collaboration with the
 International Centre for Theoretical Physics (ICTP) and its sister
 organisations SAIFR and EAFIR.
 
