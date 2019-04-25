@@ -42,7 +42,7 @@ school in Brazil for 32 students cost approximately €13,000 to cover
 student travel, accommodation and catering costs during the School. This
 is in addition to any venue costs.
 
-### [Venue and catering facilities]
+### Venue and catering facilities
 
 Hosts are required to provide a venue for the School. Catering for
 coffee breaks should be provided on site and either onsite or closeby
@@ -56,7 +56,7 @@ single room.
 Hotel accommodation and venue facilities should have reliable (wifi)
 internet connections.
 
-### [Computer Laboratory]
+### Computer Laboratory
 
 There needs to be lab space with machines running the Linux OS, as well
 as a seminar room. Some software will need to be installed before the
@@ -126,7 +126,7 @@ the best way to train future trainers and future members of the working
 group is inviting them to be helpers in one school.
 
 This [[list of
-contacts]{.underline}](https://docs.google.com/spreadsheets/d/15YyeY-dl9t52Qrk9G0FmnsrUzCXDnnEDDJ1gJ9IipiM/edit#gid=731581240)
+contacts]](https://docs.google.com/spreadsheets/d/15YyeY-dl9t52Qrk9G0FmnsrUzCXDnnEDDJ1gJ9IipiM/edit#gid=731581240)
 should be useful to start the search.
 
 ## **Prepare budget, set application web page and advertise**
@@ -197,7 +197,7 @@ clarified before.
 ## **Email to students before arrival**
 
 This is an
-[[example]{.underline}](https://docs.google.com/document/d/1bqHqL7lk6tOjnua3A3AkUl1FpWwbb2jXR4BVv9TT23Q/edit).
+[[example]](https://docs.google.com/document/d/1bqHqL7lk6tOjnua3A3AkUl1FpWwbb2jXR4BVv9TT23Q/edit).
 Try to organize an informal meetup the Sunday before the workshop start.
 It is important that those students that made it there early can meet
 each other.
@@ -220,7 +220,7 @@ Here is a list of suggested responsibilities for the helpers:
     > system at the end of each class. The first one will be processed
     > after the two weeks, but the second one should be processed each
     > day. We can create [[a similar
-    > form]{.underline}](https://docs.google.com/forms/d/e/1FAIpQLSeYl6o9U74up43M_fhPn-So9bE2xoWnoRTBKL-aUg-BEJD8Og/viewform)
+    > form]](https://docs.google.com/forms/d/e/1FAIpQLSeYl6o9U74up43M_fhPn-So9bE2xoWnoRTBKL-aUg-BEJD8Og/viewform)
     > to process the responses.
 
 -   Process daily feedback - word cloud. Maybe here I need just one
