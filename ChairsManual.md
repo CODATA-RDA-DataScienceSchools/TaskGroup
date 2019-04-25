@@ -10,8 +10,7 @@ organisations SAIFR and EAFIR.
 As a Director of the school, you will have to go through the following
 steps:
 
-![](./myMediaFolder/media/image1.png){width="6.270833333333333in"
-height="3.6527777777777777in"}
+![](./myMediaFolder/media/image1.png)
 
 **12 to 10 months before the event:**
 
