@@ -1,5 +1,7 @@
 # **Director Manual for Organizing Schools**
 
+[Marcela Alfaro Córdoba]{https://malfaro2.github.io/}
+
 The CODATA Research Data Science Schools are a fantastic opportunity to
 provide foundational data skills to Early Career Researchers in your
 region. We have run six Schools to date (three in Trieste, Italy, one in
