@@ -12,9 +12,9 @@ steps:
 
 ![](./myMediaFolder/media/image1.png)
 
-##**12 to 10 months before the event:**
+## **12 to 10 months before the event:**
 
-##**Scope and remit of the School**
+## **Scope and remit of the School**
 
 The Schools should be for a minimum of 20 students. An upper limit is
 not set as this will depend on the venue facilities and financial
@@ -32,7 +32,7 @@ percentage from the direct vicinity / city in which the School is
 hosted) or an international school with participants from a wide range
 of countries and continents?
 
-##**Identify a host institution**
+## **Identify a host institution**
 
 Hosting requires a significant investment of time and finances. The host
 will be expected to provide a venue for the School, administrative
@@ -42,7 +42,7 @@ school in Brazil for 32 students cost approximately €13,000 to cover
 student travel, accommodation and catering costs during the School. This
 is in addition to any venue costs.
 
-###[Venue and catering facilities]
+### [Venue and catering facilities]
 
 Hosts are required to provide a venue for the School. Catering for
 coffee breaks should be provided on site and either onsite or closeby
@@ -56,7 +56,7 @@ single room.
 Hotel accommodation and venue facilities should have reliable (wifi)
 internet connections.
 
-###[Computer Laboratory]
+### [Computer Laboratory]
 
 There needs to be lab space with machines running the Linux OS, as well
 as a seminar room. Some software will need to be installed before the
@@ -68,7 +68,7 @@ CPU or large memory but a reasonable amount of connectivity is required
 need to be on hand to deal with issues during the lab or to deal with
 any problems with projectors etc.
 
-###[Administrative support]
+### [Administrative support]
 
 The local host should assist in the entire administrative process to
 plan, coordinate and deliver the Schools. This will require regular
@@ -86,7 +86,7 @@ host should provide the necessary administrative support for this, and
 assist students with travel logistics and bookings. The CODATA Task
 Group will liaise with speakers and seek funding to cover their costs.
 
-##**Financial support**
+## **Financial support**
 
 Investment is needed to support student travel, accommodation and
 catering. The exact level of this will vary depending on the home
@@ -102,7 +102,7 @@ secured a range of sponsorship in the past, particularly to support
 speaker costs, the local organisers should not rely on the TG to provide
 financial support
 
-##**Exact dates**
+## **Exact dates**
 
 When defining the exact dates, the co-chair should take into account
 that each location has its own particularities. Summer periods should be
@@ -112,9 +112,9 @@ recommended to avoid organizing the event in the same period as a major
 holiday in the host country (Brazilian Carnival, Christmas for Catholic
 countries, Ramadan for Muslim countries).
 
-##**8 to 6 months before the event:**
+## **8 to 6 months before the event:**
 
-##**Organize instructors, contact helpers**
+## **Organize instructors, contact helpers**
 
 As the Schools aim to develop regional expertise, local instructors
 should teaching a minimum of 30% of the material. Other chairs can
@@ -129,7 +129,7 @@ This [[list of
 contacts]{.underline}](https://docs.google.com/spreadsheets/d/15YyeY-dl9t52Qrk9G0FmnsrUzCXDnnEDDJ1gJ9IipiM/edit#gid=731581240)
 should be useful to start the search.
 
-##**Prepare budget, set application web page and advertise**
+## **Prepare budget, set application web page and advertise**
 
 An example of a typical budget is in here. The prices for the hotel,
 daily stipend and catering service should be provided by the host
@@ -158,9 +158,9 @@ The host will set up a system to record answers to a questionnaire
 (source). The deadline for applicants should be 8 weeks before the
 event.
 
-##**14-8 weeks before the event:**
+## **14-8 weeks before the event:**
 
-##**Process applications and send invites**
+## **Process applications and send invites**
 
 The students will be scored according to [[this
 guideline]{.underline}](https://docs.google.com/document/d/10MHYm0bm1L2nEMcNaA8kmXKuh24sg1OKhqRF4VrStgQ/edit)
@@ -172,7 +172,7 @@ reach something close to a gender balance, if possible.
 The invitation to selected students should be sent by the host
 institution, as well as the hotel room and flight booking for students.
 
-##**Close budget**
+## **Close budget**
 
 The budget should be clear about sponsors for each of the instructors
 and helpers. The host institution will manage the local funds (funds
@@ -184,9 +184,9 @@ host institution, but in some cases the budget can come from non local
 sponsors. Eight weeks before the event the co-chair should be clear
 about the travel funds for all the confirmed sponsored attendees.
 
-##**4-1 weeks before the event:**
+## **4-1 weeks before the event:**
 
-##**Meet with helpers, instructors**
+## **Meet with helpers, instructors**
 
 At least two calls should be scheduled with all the instructors, helpers
 and directors of the School to do introductions and run through the
@@ -194,7 +194,7 @@ agenda. These calls should cover topics like our expectations from
 instructors and helpers, as well as logistic details that have not been
 clarified before.
 
-##**Email to students before arrival**
+## **Email to students before arrival**
 
 This is an
 [[example]{.underline}](https://docs.google.com/document/d/1bqHqL7lk6tOjnua3A3AkUl1FpWwbb2jXR4BVv9TT23Q/edit).
@@ -202,9 +202,9 @@ Try to organize an informal meetup the Sunday before the workshop start.
 It is important that those students that made it there early can meet
 each other.
 
-##**During the event:**
+## **During the event:**
 
-##**Coordinate with helpers, instructors and host institution.**
+## **Coordinate with helpers, instructors and host institution.**
 
 Here is a list of suggested responsibilities for the helpers:
 
@@ -242,11 +242,11 @@ Here is a list of suggested responsibilities for the helpers:
 
 -   Lead the way from the hotel to school venue.
 
-##**Serve as a connecting point for all the attendees**
+## **Serve as a connecting point for all the attendees**
 
-##**Collect evaluations for each class.**
+## **Collect evaluations for each class.**
 
-##**Post in social media**
+## **Post in social media**
 
 The event will be tweeted extensively during the school with the hashtag
 \#data\<Location\>\<Year\>. The organisers will provide a number of
@@ -255,16 +255,16 @@ Attendees of the school will be requested to join the Alumni Facebook
 page and will also be contacted in the future for anonymised
 longitudinal studies.
 
-##**After the event:**
+## **After the event:**
 
-##**Post classes in github site and upload the repo in Zenodo.**
+## **Post classes in github site and upload the repo in Zenodo.**
 
 Upload material from instructors in a repo like this one:
 https://github.com/CODATA-RDA-DataScienceSchools/Materials/blob/master/docs/index.md
 
-##**Write a review of the school.**
+## **Write a review of the school.**
 
-##**Thank you notes and blog posts**
+## **Thank you notes and blog posts**
 
 Dear (helper\'s name),
 
@@ -297,4 +297,4 @@ We hope to have the chance of collaborating with you in the future.
 
 Best regards,
 
-#**Correct this manual according to your experience.**
+# **Correct this manual according to your experience.**
