@@ -1,4 +1,4 @@
-#**Director Manual for Organizing Schools**
+# **Director Manual for Organizing Schools**
 
 The CODATA Research Data Science Schools are a fantastic opportunity to
 provide foundational data skills to Early Career Researchers in your
