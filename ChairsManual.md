@@ -104,7 +104,15 @@ secured a range of sponsorship in the past, particularly to support
 speaker costs, the local organisers should not rely on the TG to provide
 financial support
 
-## **Exact dates**
+## ***Capacity building and support of the Task Group***
+
+The focus of the Task Group is to deliver schools to institutions in Low and Middle Income countries (LMIC\'s). This does not mean that we are not interested in running the schools for students from High Income Countries (HIC's). Running schools in HIC's is a mechanism for us to support the running of the schools in LMIC's. 
+
+HIC institutions interested in running an instance of the school should be aware of this and will need to consider mechanisms to provide support to the Task Group with this bigger picture in mind.   
+
+ 
+
+## Exact dates**
 
 When defining the exact dates, the co-chair should take into account
 that each location has its own particularities. Summer periods should be
