@@ -106,10 +106,8 @@ financial support
 
 ## ***Capacity building and support of the Task Group***
 
-The focus of the Task Group is to deliver schools to institutions in Low and Middle Income countries (LMIC\'s). This does not mean that we are not interested in running the schools for students from High Income Countries (HIC's). Running schools in HIC's is a mechanism for us to support the running of the schools in LMIC's. 
-
-HIC institutions interested in running an instance of the school should be aware of this and will need to consider mechanisms to provide support to the Task Group with this bigger picture in mind.   
-
+The focus of the Task Group is to deliver schools to institutions in Low and Middle Income countries (LMIC's). The Group will also facilitate running schools in High Income Countries (HIC's), as it helps build capacity for the full program, and provides a mechanism to support the running of the schools in LMIC's.
+HIC institutions interested in running an instance of the school should be aware of this, and consider ways to provide support to the efforts of the Task Group with this bigger picture in mind.
  
 
 ## Exact dates**
